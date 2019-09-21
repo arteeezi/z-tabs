@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+.bash_history
+.cache
+.ssh
+.viminfo
+.gitconfig

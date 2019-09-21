@@ -1,4 +1,4 @@
-.z-tab-content.fade{
+.z-tabs-content.fade{
     -webkit-animation: fade 2.5s;
     animation: fade 2.5s;
 }
@@ -21,6 +21,6 @@
     }
 }
 
-.z-tab-content.hide {
+.z-tabs-content.hide {
     display: none;
 }
